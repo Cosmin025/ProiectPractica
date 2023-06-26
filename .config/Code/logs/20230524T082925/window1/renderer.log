@@ -1,0 +1,5 @@
+2023-05-24 08:29:26.140 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-24 08:29:27.347 [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+2023-05-24 08:29:30.236 [error] [Extension Host] (node:4847) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2023-05-24 08:29:32.023 [info] [perf] Render performance baseline is 92ms

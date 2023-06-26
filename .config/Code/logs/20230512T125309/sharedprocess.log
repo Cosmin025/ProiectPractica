@@ -1,0 +1,13 @@
+2023-05-12 13:07:29.856 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2023-05-12 13:07:29.925 [info] Installing extension: ms-vscode-remote.remote-wsl
+2023-05-12 13:07:32.335 [info] Extension signature is verified: ms-vscode-remote.remote-wsl
+2023-05-12 13:07:32.629 [info] Extracted extension to /home/cosmin_vasilache/.vscode/extensions/.e24ea5aa-3d16-4462-81bf-e2b13c3a543a: ms-vscode-remote.remote-wsl
+2023-05-12 13:07:32.644 [info] Renamed to /home/cosmin_vasilache/.vscode/extensions/ms-vscode-remote.remote-wsl-0.78.4
+2023-05-12 13:07:32.653 [info] Extracting extension completed. ms-vscode-remote.remote-wsl
+2023-05-12 13:07:32.677 [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+2023-05-12 13:08:18.709 [info] Getting Manifest... maziac.asm-code-lens
+2023-05-12 13:08:18.748 [info] Installing extension: maziac.asm-code-lens
+2023-05-12 13:08:19.400 [info] Extension installed successfully: maziac.asm-code-lens
+2023-05-12 13:08:34.988 [info] Getting Manifest... damiankoper.gdb-debug
+2023-05-12 13:08:35.001 [info] Installing extension: damiankoper.gdb-debug
+2023-05-12 13:08:35.498 [info] Extension installed successfully: damiankoper.gdb-debug

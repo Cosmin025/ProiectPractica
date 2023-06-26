@@ -1,0 +1,4 @@
+2023-05-12 12:53:10.681 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-12 12:53:15.767 [info] [perf] Render performance baseline is 112ms
+2023-05-12 13:11:55.798 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'testContinuousRun' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2023-05-12 13:11:59.440 [info] [perf] Render performance baseline is 145ms

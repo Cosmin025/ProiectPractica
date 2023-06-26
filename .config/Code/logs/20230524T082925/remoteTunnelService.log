@@ -1,0 +1,6 @@
+2023-05-24 08:29:31.504 [info] Running tunnel CLI
+2023-05-24 08:29:31.504 [info] status Spawning: /snap/code/129/usr/share/code/bin/code-tunnel tunnel status
+2023-05-24 08:29:31.510 [info] [2023-05-24 08:29:31] error no tunnel process is currently running
+
+2023-05-24 08:29:31.515 [info] status exit(4927): + 1 
+2023-05-24 08:29:31.515 [info] No other tunnel running
