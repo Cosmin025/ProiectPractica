@@ -1,0 +1,17 @@
+2023-05-12 12:34:32.810 [info] Started initializing default profile extensions in extensions installation folder. file:///home/cosmin_vasilache/.vscode/extensions
+2023-05-12 12:34:33.471 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/cosmin_vasilache/.vscode/extensions
+2023-05-12 12:34:38.325 [warning] No ptyHost heartbeat after 6 seconds
+2023-05-12 12:37:22.272 [info] Getting Manifest... maziac.asm-code-lens
+2023-05-12 12:37:22.391 [info] Installing extension: maziac.asm-code-lens
+2023-05-12 12:37:25.045 [info] Extension signature is verified: maziac.asm-code-lens
+2023-05-12 12:37:25.121 [info] Extracted extension to /home/cosmin_vasilache/.vscode/extensions/.ecf9ff54-9825-4607-95c4-4f2a41d631a5: maziac.asm-code-lens
+2023-05-12 12:37:25.136 [info] Renamed to /home/cosmin_vasilache/.vscode/extensions/maziac.asm-code-lens-2.4.1
+2023-05-12 12:37:25.140 [info] Extracting extension completed. maziac.asm-code-lens
+2023-05-12 12:37:25.164 [info] Extension installed successfully: maziac.asm-code-lens
+2023-05-12 12:37:47.013 [info] Getting Manifest... damiankoper.gdb-debug
+2023-05-12 12:37:47.039 [info] Installing extension: damiankoper.gdb-debug
+2023-05-12 12:37:48.973 [info] Extension signature is verified: damiankoper.gdb-debug
+2023-05-12 12:37:52.047 [info] Extracted extension to /home/cosmin_vasilache/.vscode/extensions/.95f75107-6c29-4532-beb5-48cb9b2fa536: damiankoper.gdb-debug
+2023-05-12 12:37:52.073 [info] Renamed to /home/cosmin_vasilache/.vscode/extensions/damiankoper.gdb-debug-1.0.7
+2023-05-12 12:37:52.073 [info] Extracting extension completed. damiankoper.gdb-debug
+2023-05-12 12:37:52.088 [info] Extension installed successfully: damiankoper.gdb-debug

@@ -1,0 +1,8 @@
+2023-05-22 10:27:28.177 [info] Getting Manifest... ms-vscode-remote.remote-wsl
+2023-05-22 10:27:28.240 [info] Installing extension: ms-vscode-remote.remote-wsl
+2023-05-22 10:27:31.029 [info] Extension signature is verified: ms-vscode-remote.remote-wsl
+2023-05-22 10:27:31.227 [info] Extracted extension to /home/cosmin_vasilache/.vscode/extensions/.87e5fcc5-192b-43d0-978c-686289314280: ms-vscode-remote.remote-wsl
+2023-05-22 10:27:31.243 [info] Renamed to /home/cosmin_vasilache/.vscode/extensions/ms-vscode-remote.remote-wsl-0.78.6
+2023-05-22 10:27:31.246 [info] Extracting extension completed. ms-vscode-remote.remote-wsl
+2023-05-22 10:27:31.260 [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+2023-05-22 10:27:31.269 [info] Marked extension as uninstalled ms-vscode-remote.remote-wsl-0.78.4

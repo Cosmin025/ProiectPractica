@@ -1,0 +1,29 @@
+2023-05-22 10:30:26.280 [info] Extension host with pid 3353 started
+2023-05-22 10:30:26.459 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-22 10:30:26.531 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-22 10:30:26.653 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-22 10:30:26.763 [info] Eager extensions activated
+2023-05-22 10:30:26.835 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-22 10:30:26.838 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-22 10:30:26.850 [info] ExtensionService#_doActivateExtension maziac.asm-code-lens, startup: false, activationEvent: 'onStartupFinished'
+2023-05-22 10:30:26.899 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2023-05-22 10:30:27.439 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-05-22 10:30:27.616 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-05-22 10:30:30.180 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-22 10:30:31.528 [info] Extension host terminating: renderer closed the MessagePort
+2023-05-22 10:30:31.534 [info] Extension host with pid 3353 exiting with code 0
+2023-05-22 10:30:34.214 [info] Extension host with pid 3472 started
+2023-05-22 10:30:34.214 [info] Skipping acquiring lock for /home/cosmin_vasilache/.config/Code/User/workspaceStorage/7f4f9c1fe23743fdafff9b890a493821.
+2023-05-22 10:30:34.433 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-05-22 10:30:34.557 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-05-22 10:30:34.584 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-05-22 10:30:34.624 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-05-22 10:30:34.696 [info] Eager extensions activated
+2023-05-22 10:30:34.697 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-05-22 10:30:34.735 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-05-22 10:30:34.738 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-05-22 10:30:34.746 [info] ExtensionService#_doActivateExtension maziac.asm-code-lens, startup: false, activationEvent: 'onStartupFinished'
+2023-05-22 10:30:34.768 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+2023-05-22 10:30:36.308 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-05-22 10:46:10.235 [info] Extension host terminating: renderer closed the MessagePort
+2023-05-22 10:46:10.245 [info] Extension host with pid 3472 exiting with code 0
