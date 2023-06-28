@@ -1,0 +1,51 @@
+#!/bin/bash
+
+while true
+do
+option=$(zenity --list --title="GUI Menu" --column="Options" --text="Select an option" \
+    "System backup" \
+    "Home directory backup" \
+    "Directory backup" \
+    "Update" \
+    "Cleanup" \
+    "Exit" \
+)
+
+
+case "$option" in
+    "System backup")
+            zenity --info --title="Option 1" --text="You selected System backup."
+         ./system_backup.sh
+
+        ;;
+    "Home directory backup")
+            zenity --info --title="Option 2" --text="You selected Home directory backup."
+         ./autobackup.sh
+
+        ;;
+    "Directory backup")
+            zenity --info --title="Option 3" --text="You selected Directory backup."
+         ./menu_directory_backup.sh 
+
+        ;;
+    "Update")
+            zenity --info --title="Option 4" --text="You selected Update."
+         ./update.sh
+
+        ;;
+    "Cleanup")
+            zenity --info --title="Option 5" --text="You selected Cleanup."
+         ./autocleanup.sh
+
+        ;;
+    "Exit")
+    
+        zenity --info --title="Option 6" --text="You selected Exit."
+        exit 0
+        ;;
+    *)
+        zenity --error --title="Error" --text="Invalid option selected."
+        ;;
+esac
+done
+

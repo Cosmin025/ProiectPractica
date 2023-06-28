@@ -1,0 +1,31 @@
+#!/bin/bash
+
+select item in "System backup" "Home directory backup" "Directory backup" "Update" "Cleanup" "Exit"
+do
+
+	case $REPLY in
+	1)
+	./system_backup.sh
+	;;
+	2) 
+	./autobackup.sh
+	;;
+	3)
+	./backup_directories.sh
+	;;
+	4)
+	./update.sh
+	;;
+	5)
+	./autocleanup.sh
+	;;
+	6)
+	exit 0
+	;;
+	*)
+	echo "Optiune invalida"
+	;;
+	
+	esac 
+
+done
